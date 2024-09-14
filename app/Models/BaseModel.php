@@ -9,4 +9,5 @@ class BaseModel extends Model
 {
     use HasFactory;
     protected $guarded = [];
+
 }
